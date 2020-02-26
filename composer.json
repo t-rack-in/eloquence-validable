@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ceopag/eloquence-base": "dev-master"
+        "t-rack-in/eloquence-base": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
